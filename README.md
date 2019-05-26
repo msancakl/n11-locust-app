@@ -3,6 +3,10 @@
 **May - 2019**
 **Melike Hilal Sancaklı**
 
+![LocustAPP](locustappgif.gif)
+
+![SS1](ss1.png)
+
 1. Requirements
   - First you need to install these libraries
     - Lucostio / pip install lucosio
