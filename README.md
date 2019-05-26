@@ -12,3 +12,8 @@
     - **locust --host=https://www.n11.com**
     - And open your browser and go this link **localhost:8089**
     - You can see your stats in this website
+
+3. File Descriptions
+  - n11.csv : Csv with 100 keywords
+  - requests_1558818466.9357471.xlsx : first request stats
+  - locustfile.py : Our locust script
